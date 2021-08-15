@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica", serif;
+  background-image: linear-gradient(45deg, #25c998, #1a1d53);
+  color: white;
+}
+.fa-inverse {
+  margin-right: 10px;
+}
+#logo {
+  width: 100px;
+  height: 100px;
+}
+.social-links {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+.name {
+  background-color: black;
+  background-image: linear-gradient(45deg, #1a1d53, #25c998);
+  background-image: conic-gradient(red, yellow, green);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+}
