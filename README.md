@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on making the weather app mobile friendly.
 - 🌱 I’m currently learning node js.
-- 📫 How to reach me: premaymt@gmail.com
+- 📫 To reach me: premaymt@gmail.com
 - ✨ To view my works: http://yaminthwe.atwebpages.com
 
 <!--
