@@ -1,10 +1,23 @@
-body {
-  margin: 0;
-  padding: 0;
+html,body
+{
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden; 
   font-family: "Helvetica", serif;
   background-image: linear-gradient(45deg, #25c998, #1a1d53);
   color: white;
+
+  display:flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
+
+.main-content{
+  flex-grow: 1;
+}
+
 .marg {
   margin-right: 10px;
 }
@@ -20,23 +33,23 @@ body {
 #next {
   float:right;
   font-size:50px;
-  position :absolute;
-  top:50%;
-  left:95%;
+  position : fixed;
+  top:45%;
+  left:90%;
+  padding: 0px 5px 9px 5px;
+  z-index: 1;
+}
+#prev:hover, #next:hover {
+  background-color: #888888;
 }
 #prev{
   float:left;
   font-size:50px;
-  position :absolute;
-  top:50%;
-  left:5%;
-}
-#resume{
-  border:2px solid black !important;
-  position :relative;
-  left:45%;
-  margin:10px 0px 15px 0px;
-  text-decoration : bold;
+  position : fixed;
+  top:45%;
+  left:4%;
+  padding: 0px 5px 9px 5px;
+  z-index: 1;
 }
 .name {
   background-color: black;
@@ -47,4 +60,12 @@ body {
   -moz-background-clip: text;
   -moz-text-fill-color: transparent;
   -webkit-text-fill-color: transparent;
+}
+#footer{
+  position: fixed;
+  bottom:0;
+  width:100%;
+}
+.footer_text{
+  text-align: center;
 }
