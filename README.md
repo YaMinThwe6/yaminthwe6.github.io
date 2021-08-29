@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on making the weather app mobile friendly.
+- 🔭 I’m currently working on making the weather app using node js.
 - 🌱 I’m currently learning node js.
 - 📫 To reach me: premaymt@gmail.com
 - ✨ To view my works: https://yamin-thwe-5078.github.io/
