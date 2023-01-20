@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on making the weather app using node js.
-- 🌱 I’m currently learning node js.
+- 🔭 I’m currently working on developing an app using Reactjs .
+- 🌱 I’m currently learning ReacjJs.
 - 📫 To reach me: premaymt@gmail.com
 - ✨ To view my works: https://yaminthwe6.github.io/
 
